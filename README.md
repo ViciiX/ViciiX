@@ -16,7 +16,7 @@
 
 ## ✨ 关于我 | About Me
 
-<img src="https://avatars.githubusercontent.com/u/73730269" align="right" width=128>
+<img src="https://avatars.githubusercontent.com/u/73730269" align="right" width=120>
 
 <p>&emsp;&emsp;你好！我是ViciiX，一名高中生，目前在努力学习编程。</p> 
 <P></P>&emsp;&emsp;梦想是成为和大家一样优秀的开发者，并为开源社区贡献属于自己的一份力量！^O^</p> 
@@ -33,7 +33,7 @@
 <tr><td>
 
 ## 💡我最常使用的语言 | My Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViciiX&theme=catppuccin_latte&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViciiX&theme=catppuccin_latte&layout=donut-vertical&langs_count=20&exclude_repo=ViciiX.github.io)](https://github.com/anuraghazra/github-readme-stats)  
 
 </tr></td>
 <tr><td>
