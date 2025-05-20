@@ -53,6 +53,6 @@
 <tr><td>
 
 ## 🎯连续打卡记录 | Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=ViciiX&theme=transparent&locale=zh_Hans)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ViciiX&theme=transparent&locale=zh_Hans&card_width=600&card_height=200)](https://git.io/streak-stats)
 
 </tr></td>
