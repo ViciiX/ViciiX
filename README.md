@@ -45,9 +45,10 @@
 <tr><td>
 
 ## 📌短期目标！ | To Do List!
-- 学习Python
+- 🐍学习Python
   - 学习tkinter库
-- 学习、熟悉Git的使用
+- 💡学习、熟悉Git的使用
+- ⚙学习Godot
 
 </tr></td>
 <tr><td>
