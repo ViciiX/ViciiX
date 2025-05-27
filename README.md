@@ -33,7 +33,7 @@
 <tr><td>
 
 ## 💡我最常使用的语言 | My Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViciiX&theme=catppuccin_latte&layout=donut-vertical&langs_count=20&exclude_repo=ViciiX.github.io)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViciiX&theme=catppuccin_latte&layout=donut-vertical&langs_count=10&exclude_repo=ViciiX.github.io)](https://github.com/anuraghazra/github-readme-stats)  
 
 </tr></td>
 <tr><td>
