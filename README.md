@@ -57,3 +57,10 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=ViciiX&theme=transparent&locale=zh_Hans&card_width=600&card_height=200)](https://git.io/streak-stats)
 
 </tr></td>
+<tr><td>
+
+## ✊目前开发 | Developing
+### [吊鱼](https://github.com/ViciiX/pixel_fishing)
+一个godot制作的像素钓鱼小游戏
+
+</tr></td>
